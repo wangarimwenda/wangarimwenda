@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wangari
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development ana Animation
 - 🌱 I’m currently learning JavaScript and Three Js
 - 💞️ I’m looking to collaborate on websites and animations
 - 📫 How to reach me @wangariclaire0@gmail.com
