@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Animation
 - 🌱 I’m currently learning JavaScript and Three Js
 - 💞️ I’m looking to collaborate on websites and animations
-- 📫 How to reach me @wangariclaire0@gmail.com
+- 📫 How to reach me @wangarimwenda0@gmail.com
 - ⚡ Fun fact: I am a Pharmacist, I play the piano and drums.
 
 <!---
